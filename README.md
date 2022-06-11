@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yixinBC
-- 👀 I’m interested in Python and JavaScript(django, electron, node, pyside2(Qt)....)
-- 🌱 I’m currently learning JS and Qt
+- 👀 I’m interested in Python,Rust,C++
+- 🌱 I’m currently learning Rust and C++
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
