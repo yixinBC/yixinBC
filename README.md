@@ -13,3 +13,4 @@ yixinBC/yixinBC is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yixinBC)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yixinBC&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
