@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yixinBC
-- 👀 I’m interested in Python,Rust,C++
+- 👽 A beginner of CTF
+- 👀 I’m interested in all the thing I haven't learnt.
 - 🌱 I’m currently learning Rust and C++
 <!---
 - 💞️ I’m looking to collaborate on ...
