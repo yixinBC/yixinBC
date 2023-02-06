@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yixinBC
 - 👽 A beginner of CTF
+- 🏫 A student of Jiangnan University, China
 - 👀 I’m interested in all the thing I haven't learnt.
 - 🌱 I’m currently learning Rust and C++
 <!---
